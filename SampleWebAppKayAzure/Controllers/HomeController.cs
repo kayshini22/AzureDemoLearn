@@ -15,7 +15,7 @@ namespace SampleWebAppKayAzure.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Kayshini AJ";
+            ViewBag.Message = "Kayshini AJ Updated";
 
             return View();
         }
